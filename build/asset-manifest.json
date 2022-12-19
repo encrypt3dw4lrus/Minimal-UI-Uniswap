@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/QL1-Testnet-Minimal/static/css/main.797d0e06.chunk.css",
+    "main.js": "/QL1-Testnet-Minimal/static/js/main.4fe0373c.chunk.js",
+    "main.js.map": "/QL1-Testnet-Minimal/static/js/main.4fe0373c.chunk.js.map",
+    "runtime-main.js": "/QL1-Testnet-Minimal/static/js/runtime-main.7e3e07cb.js",
+    "runtime-main.js.map": "/QL1-Testnet-Minimal/static/js/runtime-main.7e3e07cb.js.map",
+    "static/css/2.3ab4f688.chunk.css": "/QL1-Testnet-Minimal/static/css/2.3ab4f688.chunk.css",
+    "static/js/2.13fab779.chunk.js": "/QL1-Testnet-Minimal/static/js/2.13fab779.chunk.js",
+    "static/js/2.13fab779.chunk.js.map": "/QL1-Testnet-Minimal/static/js/2.13fab779.chunk.js.map",
+    "static/js/3.c38e175b.chunk.js": "/QL1-Testnet-Minimal/static/js/3.c38e175b.chunk.js",
+    "static/js/3.c38e175b.chunk.js.map": "/QL1-Testnet-Minimal/static/js/3.c38e175b.chunk.js.map",
+    "index.html": "/QL1-Testnet-Minimal/index.html",
+    "static/css/2.3ab4f688.chunk.css.map": "/QL1-Testnet-Minimal/static/css/2.3ab4f688.chunk.css.map",
+    "static/css/main.797d0e06.chunk.css.map": "/QL1-Testnet-Minimal/static/css/main.797d0e06.chunk.css.map",
+    "static/js/2.13fab779.chunk.js.LICENSE.txt": "/QL1-Testnet-Minimal/static/js/2.13fab779.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e3e07cb.js",
+    "static/css/2.3ab4f688.chunk.css",
+    "static/js/2.13fab779.chunk.js",
+    "static/css/main.797d0e06.chunk.css",
+    "static/js/main.4fe0373c.chunk.js"
+  ]
+}
